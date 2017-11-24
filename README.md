@@ -1,7 +1,9 @@
 # mw-error
 
 this is an minified error demo for egg
+
 有中间件但未给出配置的情况下会出错（String.prototype.match called on null or undefined）
+
 SEE middleware/env and config.default.js
 
 ## QuickStart
